@@ -1,0 +1,1 @@
+import{j as n,L as e}from"./index.js";const s="_container_q2005_1",t="_link_q2005_6",o={container:s,link:t},r=()=>n.jsxs("div",{className:o.container,children:[n.jsx("h1",{children:"404 - Page Not Found"}),n.jsx("p",{children:"Sorry, the page you are looking for doesn't exist."}),n.jsx(e,{to:"/",className:o.link,children:"Go to Home Page"})]});export{r as default};
