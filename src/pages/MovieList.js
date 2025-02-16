@@ -1,4 +1,4 @@
-import { g as y, a as m, j as s, L as u } from "./index.js";
+import { g as y, a as m, j as s, L as u } from "../pages/index.js";
 var i = { exports: {} },
   h = "SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED",
   T = h,

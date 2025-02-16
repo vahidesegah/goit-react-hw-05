@@ -1,0 +1,15 @@
+._list_1polx_1 {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin: 0;
+}
+._list_1polx_1 li {
+  margin-bottom: 4px;
+}
+._link_1polx_11 {
+  color: #0078ff;
+  text-decoration: underline;
+}
+._link_1polx_11:hover {
+  color: #ff6b01;
+}

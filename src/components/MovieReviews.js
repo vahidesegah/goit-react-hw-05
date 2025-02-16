@@ -1,4 +1,4 @@
-import { b as h, r, j as e } from "./index.js";
+import { b as h, r, j as e } from "../pages/index.js";
 import { c as w } from "./api.js";
 const m = "_reviewsList_15u2l_1",
   d = "_reviewItem_15u2l_6",
