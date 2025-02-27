@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { ThemeContext } from "../ThemeSwitcher/ThemeSelector.jsx";
+
 import { IoMdSunny } from "react-icons/io";
 import { FaPalette, FaMoon } from "react-icons/fa";
 import styles from "./ThemeSelector.module.css";
