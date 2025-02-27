@@ -5,7 +5,7 @@ import {
   fetchMovies,
   BASE_URL,
   IMG_BASE_URL,
-} from "../../../services/api.js";
+} from "../../../api.js";
 import css from "./Carousel.module.css";
 
 function Carousel() {

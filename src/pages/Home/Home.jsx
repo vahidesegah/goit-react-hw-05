@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import MovieCard from "../../components/Movie/MovieCard/MovieCard.jsx";
-import { fetchMovies, ENDPOINTS, BASE_URL } from "../../services/api.js";
+import { fetchMovies, ENDPOINTS, BASE_URL } from "../../../src/api.js";
 import Loading from "../../components/UI/Loading/Loading.jsx";
 
 function Home({ onAddToFavorites, favoriteMovies }) {
